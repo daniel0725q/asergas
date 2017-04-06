@@ -1,0 +1,13 @@
+#a h1 {
+    color: white;
+}
+
+#a h2 {
+    color: white;
+}
+
+#a {
+    background: url(../img/servicios.png) no-repeat center;
+    padding: 10%;
+    padding-bottom: 5%;
+}
